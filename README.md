@@ -26,8 +26,8 @@ Runs in both **CLI mode** and **Gradio Web UI** with live configuration options.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/chiragkakad/smolagents-search-ui.git
+cd smolagents-search-ui
 pip install -r requirements.txt
 ```
 
